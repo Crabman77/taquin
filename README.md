@@ -12,7 +12,7 @@ Gameplay: arrow keys up,down,left,right or mouse
 You must install SFML(2.5) -dev lib.
 
 ```sh
-$ git clone https://gitlab.com/Crabman77/taquin.git
+$ git clone https://github.com/Crabman77/taquin.git
 $ cd taquin
 $ g++ -o taquin Main.cpp Anim.cpp Button.cpp Card.cpp Engine.cpp Hud.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -std=c++14
 ```
