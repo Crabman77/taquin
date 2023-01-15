@@ -10,7 +10,7 @@
 
 Hud::Hud(sf::Font& font)
 {
-	for( int i = 0; i < m_levelNumber*3; i++ )
+	for( long unsigned int i = 0; i < m_levelNumber*3; i++ )
 	{
 		score s
 		{

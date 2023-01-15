@@ -47,7 +47,7 @@ private:
 	sf::Text m_timeText;
 	sf::Text m_highScoreText;
 	
-	int m_levelNumber = 5;
+	const long unsigned int m_levelNumber = 5;
 	int m_score;
 	float m_time;
 	int m_highScore;
