@@ -9,6 +9,8 @@ Gameplay: arrow keys(up,down,left,right) or mouse, space or right mouse button t
 
 ### Compilation
 You must install SFML(2.5) -dev to compil, and lib depends to launch (libsfml-system2.5 libsfml-graphics2.5 libsfml-window2.5 libsfml-audio2.5).
+
+
 Vous devez installer les librairies SFML(2.5) -dev pour compiler et ses dépendances pour lancer (libsfml-system2.5 libsfml-graphics2.5 libsfml-window2.5 libsfml-audio2.5).
 
 ### install
